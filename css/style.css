@@ -1,0 +1,58 @@
+/* -------------------------- */
+/* -------------------------- */
+/* ----- GLOBAL STYLING ----- */
+/* -------------------------- */
+/* -------------------------- */
+
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: roboto;
+}
+
+/* HEADER */
+
+header{
+    background-image: image(back1);
+}
+
+#overskrift1{
+    position: relative;
+    left: 100px;
+    width: 50%;
+}
+
+#underoverskrift{
+    position: relative;
+    left: 100px;
+    width: 50%;
+
+}
+
+        /* ---- SECTIONS ---- */
+
+/* SEC 1 */
+
+#sec1{
+    margin: 0% 10% 5%;
+    text-align: justify;
+}
+
+.tekst{
+    color: #333;
+    line-height: 35px;
+}
+
+
+/* SEC 2 */
+
+/* SEC 3 */
+
+/* SEC 4 */
+
+
+/* --------------------------- */
+/* --------------------------- */
+/* ------ MEDIA QUARIES ------ */
+/* --------------------------- */
+/* --------------------------- */
